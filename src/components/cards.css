@@ -1,0 +1,31 @@
+.pokecard{
+   background-color:  #212529;
+   display: flex;
+   flex-direction: column;
+   min-width: 320px;
+   max-width: 500px;
+   margin: auto;
+   margin-top: 40px;
+   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+   padding: 30px;
+   
+}
+
+.pokecard img{
+    margin: 30px auto;
+    padding: 10px;
+}
+.card-texts{
+    color: #fff;
+    padding-left: 20px;
+    font-weight: 900;
+    
+}
+
+.card-texts-data{
+    
+    text-transform: uppercase;
+    color: rgb(153, 7, 7);
+    font-size: larger;
+}
+

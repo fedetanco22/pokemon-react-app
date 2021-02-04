@@ -1,0 +1,21 @@
+form{
+    width: 320px;
+    margin: auto;
+}
+
+form label{
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+}
+
+form input{
+    width: 100%;
+}
+
+button{
+    display:block;
+    width: 320px;
+    margin: auto;
+}
+
